@@ -44,3 +44,5 @@ Below is my plan to learn code in the next 100 days
     - Edx - CS50’s Introduction to Computer Science
         - [CS50's Introduction to Computer Science | edX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product_value_experiment_a&queryID=56de40be788aaeb632f4edc2694aaddb&position=1)
     - C Primer Plus
+
+### The Challenge will begin at Oct 7, 2022; Expect to be finish on Jan 15, 2023
