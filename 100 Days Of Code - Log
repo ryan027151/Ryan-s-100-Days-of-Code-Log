@@ -2,4 +2,20 @@
 
 ### Today's Progress:
 Today I've done a Hands-on Lab on using MySQL Built-in functions to compose and run queries, check results and view the logs, and learn how to use Sub-Queries and Nested Selects to enrich my query to the database.
-### Thoughts: Although this language is not hard to learn, but it still require a good sense of logical where dealing with relational database and query.
+
+
+Day 2-3: October 8-9, 2022; Saturday & Sunday:
+###Day 2-3: Octtober 8-9, 2022; Saterday&Sunday
+
+
+### Today's Progress:
+- Sub Queries and Nested SELECTS (Tutorial/Lab Practice)
+- Working with Multiple Tables (Tutorial/Lab Practice)
+- Different types of JOIN between tables &/ columns
+
+###Day 4-5: October 10-11, 2022; Monday & Tuesday:
+
+### Today's Progress:
+- Installed C environment and successfully ran my first C "Hello World" program
+- Connect Python to Database using DB-API
+- Learned about basic cursor method in Python to query from a database using SQL.
